@@ -1,1 +1,2 @@
-# MY_FIRST_TEST_REP
+# MY_FIRST_TEST_REPO
+первая лабораторная работа 
